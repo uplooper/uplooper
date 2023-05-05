@@ -8,7 +8,8 @@
 * Multiplicação
 * Divisão
 * Formatar computador
-* Rebocar paredes
+* Bater lage
+* Voar
 
 ## Contatos
 * [Linkedin](https://www.linkedin.com/in/gabriel-cavalcante-225076242) :link:
