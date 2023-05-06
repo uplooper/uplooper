@@ -1,15 +1,15 @@
-# :rocket: Gabriel Cavalcante :rocket: 
+# Gabriel Cavalcante
 
 ## Tecnologias
-* Scratch
-* Visualg
-* Adição
-* Subtração
-* Multiplicação
-* Divisão
-* Formatar computador
-* Bater lage
-* Voar
+* ARDUÍNO
+* C
+* CSS
+* GIT
+* HTML
+* JS
+* PHP
+* SHELL SCRIPT
+* SQL
 
 ## Contatos
 * [Linkedin](https://www.linkedin.com/in/gabriel-cavalcante-225076242) :link:
