@@ -1,14 +1,14 @@
 # Gabriel Cavalcante
 
 ## Tecnologias
-* ARDUÍNO
+* Arduíno
 * C
 * CSS
-* GIT
+* Git
 * HTML
 * JS
 * PHP
-* SHELL SCRIPT
+* Shell Script
 * SQL
 
 ## Contatos
