@@ -7,6 +7,7 @@
 * Git
 * HTML
 * JS
+* Java
 * PHP
 * Shell Script
 * SQL
