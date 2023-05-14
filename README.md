@@ -1,5 +1,7 @@
 # Gabriel Cavalcante
 
+Graduando de Licenciatura em Ciências da Computação pelo Instituto Federal da Bahia, campus Jacobina. Gosta da área de Tecnologia da Informação, sobretudo o campo de Desenvolvimento de Software, ler sobre assuntos diversos. Já trabalhou como Suporte Técnico e Integração por 6 meses, o que o fez adquirir vasto conhecimento técnico em manutenção, configuração e integração de/entre periféricos e computadores. Toca flauta doce, sabe montar cubo mágico (cubo de Rubik) e digitar profissionalmente no teclado Qwerty ABNT 2. Nas horas vagas está tocando suas músicas preferidas, lendo ou estudando.
+
 ## Tecnologias
 * Arduíno
 * C
