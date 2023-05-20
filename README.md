@@ -1,5 +1,9 @@
 # Gabriel Cavalcante
 
+"Numa noite fria, passeio guiado pela luz de estrelas que dançavam ao ritmo do silêncio escuro do luar, em uma valsa celestial orquestrada pelo acaso. Entre caminhos desconhecidos, sou conduzido para lugares distantes." (próprio).
+
+## Sobre
+
 Graduando de Licenciatura em Ciências da Computação pelo Instituto Federal da Bahia, campus Jacobina. Gosta da área de Tecnologia da Informação, sobretudo o campo de Desenvolvimento de Software, ler sobre assuntos diversos, aprender coisas novas, dentre outros.
 
 Já trabalhou como Suporte Técnico e Integração por algum tempo, o que o fez adquirir vasto conhecimento técnico em manutenção, configuração e integração de/entre dispositivos periféricos e computadores de uso geral.
