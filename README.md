@@ -4,13 +4,11 @@
 
 ## Sobre
 
-Graduando de Licenciatura em Ciências da Computação pelo Instituto Federal da Bahia, campus Jacobina. Gosta da área de Tecnologia da Informação, sobretudo o campo de Desenvolvimento de Software, ler sobre assuntos diversos, aprender coisas novas, dentre outros.
+Graduando de Licenciatura em Ciências da Computação pelo Instituto Federal da Bahia, campus Jacobina, gosta da área de Tecnologia da Informação, sobretudo o campo de Desenvolvimento de Software, ler sobre assuntos diversos e aprender coisas novas.
 
-Já trabalhou como Suporte Técnico e Integração por algum tempo, o que o fez adquirir vasto conhecimento técnico em manutenção, configuração e integração de/entre dispositivos periféricos e computadores de uso geral.
+Já trabalhou como Suporte Técnico e Integração, o que lhe proporcionou experiência com manutenção e configuração de computadores e periféricos e integração entre computador-periférico ou computador-computador, por meio da relação cliente-servidor, através de configuração de rede e banco de dados.
 
-Toca flauta doce, sabe resolver cubo mágico (cubo de Rubik) e digitar profissionalmente em teclado Qwerty ABNT2. Possui facilidade com números, resolução de problemas complexos e lógica de programação apurada.
-
-Nas horas vagas, está tocando suas músicas preferidas, lendo ou estudando.
+Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclados de computador. Possui facilidade com números, resolução de problemas complexos e lógica de programação apurada.
 
 ## Tecnologias
 * Arduíno
