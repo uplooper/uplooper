@@ -1,8 +1,6 @@
 # Gabriel Cavalcante
 
-"Numa noite fria, passeio guiado pela luz de estrelas que dançavam ao ritmo do silêncio escuro do luar, em uma valsa celestial orquestrada pelo acaso. Entre caminhos desconhecidos, sou conduzido para lugares distantes.
-
-Movo-me em meio a bosques e florestas estranhas. O relógio do tempo quebrou; estou preso em uma noite eterna, sozinho, vagando por um caminho sem fim." (o próprio).
+"Numa noite fria, passeio guiado pela luz de estrelas que dançavam ao ritmo do silêncio escuro do luar, em uma valsa celestial orquestrada pelo acaso. Entre caminhos desconhecidos, sou conduzido para lugares distantes." (o próprio).
 
 ## Sobre
 
