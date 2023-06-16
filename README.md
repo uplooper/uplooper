@@ -16,7 +16,7 @@ Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclado
 
 ## Tecnologias
 * Arduíno
-* C (selo de competência do Linkedin)
+* C (Passou na avaliação de competências do LinkedIn)
 * C++
 * CSS
 * Git
