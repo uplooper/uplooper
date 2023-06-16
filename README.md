@@ -1,7 +1,7 @@
 # Gabriel Cavalcante
 
 ~~~sql
-  SELECT about, technologies, social
+  SELECT about AS Sobre, technologies AS Tecnologias, social AS Social
   FROM users
   WHERE nickname = 'bcXcb';
 ~~~
