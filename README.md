@@ -10,7 +10,7 @@ Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclado
 
 ## Tecnologias
 * Arduíno
-* C
+* C (selo de competência do Linkedin)
 * C++
 * CSS
 * Git
