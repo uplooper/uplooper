@@ -1,5 +1,11 @@
 # Gabriel Cavalcante
 
+~~~sql
+  SELECT about
+  FROM users
+  WHERE nickname = 'bcXcb';
+~~~
+
 ## Sobre
 
 Graduando de Licenciatura em Ciências da Computação pelo Instituto Federal da Bahia, campus Jacobina, gosta da área de Tecnologia da Informação, sobretudo o campo de Desenvolvimento de Software, ler sobre assuntos diversos e aprender coisas novas.
