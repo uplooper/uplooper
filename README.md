@@ -24,7 +24,7 @@ Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclado
 * JS
 * Java
 * PHP
-* Shell Script
+* Shell Script (Passou na avaliação de competências do LinkedIn)
 * SQL
 
 ## Social
