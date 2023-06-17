@@ -16,6 +16,7 @@ Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclado
 
 ## Tecnologias
 * Arduíno
+* Bash (Passou na avaliação de competências do LinkedIn)
 * C (Passou na avaliação de competências do LinkedIn)
 * C++
 * CSS
@@ -24,7 +25,6 @@ Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclado
 * JS
 * Java
 * PHP
-* Shell Script (Passou na avaliação de competências do LinkedIn)
 * SQL
 
 ## Social
