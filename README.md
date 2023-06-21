@@ -34,4 +34,4 @@ Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclado
 * [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/853225) :link:
 
 ## Currículo
-* [Versão 3](https://github.com/bcXcb/bcXcb/files/11826856/Gabriel.Cavalcante.3.pdf)
+* [Clique para abrir](https://github.com/bcXcb/bcXcb/files/11826856/Gabriel.Cavalcante.3.pdf) :link:
