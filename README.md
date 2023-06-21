@@ -35,5 +35,7 @@ Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclado
 
 ## Currículo
 [Versão 1](https://github.com/bcXcb/bcXcb/files/11826854/Gabriel.Cavalcante.pdf)
+
 [Versão 2](https://github.com/bcXcb/bcXcb/files/11826855/Gabriel.Cavalcante.2.pdf)
+
 [Versão 3](https://github.com/bcXcb/bcXcb/files/11826856/Gabriel.Cavalcante.3.pdf)
