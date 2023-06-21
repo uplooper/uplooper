@@ -15,9 +15,10 @@ Já trabalhou como Suporte Técnico e Integração, o que lhe proporcionou exper
 Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclados de computador. Possui facilidade com números, resolução de problemas complexos e lógica de programação apurada.
 
 ## Tecnologias
+🥇: significa que passou na avaliação de competências do LinkedIn
 * Arduíno
-* Bash 🥇 (Passou na avaliação de competências do LinkedIn)
-* C 🥇 (Passou na avaliação de competências do LinkedIn)
+* Bash 🥇
+* C 🥇
 * C++
 * CSS3
 * Git
