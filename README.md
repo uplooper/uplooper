@@ -19,9 +19,9 @@ Toca instrumento musical, resolve cubo de Rubik e digita corretamente em teclado
 * Bash (Passou na avaliação de competências do LinkedIn)
 * C (Passou na avaliação de competências do LinkedIn)
 * C++
-* CSS
+* CSS3
 * Git
-* HTML
+* HTML5
 * JS
 * Java
 * PHP
