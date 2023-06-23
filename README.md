@@ -55,4 +55,4 @@ Possui facilidade com números, resolução de problemas complexos e lógica de 
 
 ## Outros Links Importantes
 * [Currículo](https://bcxcb.github.io/downloads/) :link:
-* [Portfólio] (https://bcxcb.github.io/portfolio) :link:
+* [Portfólio](https://bcxcb.github.io/portfolio) :link:
