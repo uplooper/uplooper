@@ -34,7 +34,7 @@ Já trabalhou como Suporte Técnico e Integração, o que lhe proporcionou exper
 Possui facilidade com números, resolução de problemas complexos e lógica de programação apurada.
 
 ## Tecnologias
-🥇: significa que passou na avaliação de competências do LinkedIn
+🥇 = passou na avaliação de competências do LinkedIn
 * Arduíno
 * Bash 🥇
 * C 🥇
