@@ -1,9 +1,27 @@
 # Gabriel Cavalcante
 
-~~~sql
-  SELECT about AS Sobre, technologies AS Tecnologias, social AS Social
-  FROM users
-  WHERE nickname = 'bcXcb';
+~~~c++
+#include <iostream>
+
+int calculateFatorial(int n) {
+    if (n == 0)
+        return 1;
+    else
+        return n * calculateFatorial(n - 1);
+}
+
+int main() {
+    int number, result;
+
+    std::cout << "x | x ∈ N: ");
+    std::cin >> number;
+
+    result = calculateFatorial(number);
+
+    std::cout << "x! = " << result << std:: endl;
+      
+    return 0;
+}
 ~~~
 
 ## Sobre
