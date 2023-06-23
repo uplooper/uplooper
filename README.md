@@ -19,7 +19,7 @@ int main() {
 
     result = calculateFatorial(n);
 
-    std::cout << "x! = " << result << std::endl;
+    std::cout << "n! = " << result << std::endl;
       
     return 0;
 }
