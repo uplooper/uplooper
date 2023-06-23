@@ -53,5 +53,6 @@ Possui facilidade com números, resolução de problemas complexos e lógica de 
 * [WhatsApp](http://wa.me/5574981343313) :link:
 * [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/853225) :link:
 
-## Currículo
-* [Clique](https://bcxcb.github.io/downloads/) :link:
+## Outros Links Importantes
+* [Currículo](https://bcxcb.github.io/downloads/) :link:
+* [Portfólio] (https://bcxcb.github.io/portfolio) :link:
