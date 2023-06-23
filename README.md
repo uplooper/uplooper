@@ -54,5 +54,5 @@ Possui facilidade com números, resolução de problemas complexos e lógica de 
 * [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/853225) :link:
 
 ## Outros Links Importantes
-* [Currículo](https://bcxcb.github.io/downloads/) :link:
-* [Portfólio](https://bcxcb.github.io/portfolio) :link:
+* [Currículo](https://uplooper.github.io/downloads) :link:
+* [Portfólio](https://uplooper.github.io/portfolio) :link:
