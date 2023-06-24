@@ -1,26 +1,5 @@
 # Gabriel Cavalcante
 
-~~~c++
-#include <iostream>
-
-int calculateFatorial(int n) {
-    return (n == 0) ? 1 : n * calculateFatorial(n - 1);
-}
-
-int main() {
-    int n, result;
-
-    std::cout << "n | n ∈ N: ";
-    std::cin >> n;
-
-    result = calculateFatorial(n);
-
-    std::cout << "n! = " << result << std::endl;
-      
-    return 0;
-}
-~~~
-
 ## Sobre
 
 Graduando de Licenciatura em Ciências da Computação pelo Instituto Federal da Bahia, campus Jacobina, gosta da área de Tecnologia da Informação, sobretudo o campo de Desenvolvimento de Software, ler sobre assuntos diversos e aprender coisas novas.
@@ -50,5 +29,5 @@ Possui facilidade com números, resolução de problemas complexos e lógica de 
 * [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/853225) :link:
 
 ## Outros Links Importantes
-* [Currículo](https://uplooper.github.io/downloads) :link:
-* [Portfólio](https://uplooper.github.io/portfolio) :link:
+* [Currículo](https://zolppy.github.io/downloads) :link:
+* [Portfólio](https://zolppy.github.io/portfolio) :link:
