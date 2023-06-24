@@ -4,17 +4,13 @@
 #include <iostream>
 
 int calculateFatorial(int n) {
-    if (n == 0) {
-        return 1;
-    } else {
-        return n * calculateFatorial(n - 1);
-    }
+    return (n == 0) ? 1 : n * calculateFatorial(n - 1);
 }
 
 int main() {
     int n, result;
 
-    std::cout << "n | n ∈ N: ");
+    std::cout << "n | n ∈ N: ";
     std::cin >> n;
 
     result = calculateFatorial(n);
