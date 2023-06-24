@@ -20,6 +20,6 @@
 * [WhatsApp](http://wa.me/5574981343313) :link:
 * [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/853225) :link:
 
-## Outros Links Importantes
+## Outros links importantes
 * [Currículo](https://zolppy.github.io/downloads) :link:
-* [Portfólio](https://zolppy.github.io/portfolio) :link:
+* [Portfólio](https://zolppy.github.io/portfolio) (em andamento) :link:
