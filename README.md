@@ -21,5 +21,5 @@
 * [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/853225) :link:
 
 ## Outros
-* [Currículo](https://zolppy.github.io/downloads) :link:
-* [Portfólio](https://zolppy.github.io/portfolio) (em andamento) :link:
+* [Currículo](https://zolppy.github.io/zolppy) :link:
+* [Portfólio](https://github.com/zolppy) (em andamento) :link:
