@@ -1,7 +1,3 @@
-# Gabriel Cavalcante
-
-![01](https://github.com/zolppy/zolppy/assets/94535032/d2d2a0e1-973e-4175-9270-875f7edc89dc)
-
 ## Tecnologias
 🥇 = passou na avaliação de competências do LinkedIn
 * Arduíno
