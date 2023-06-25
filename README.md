@@ -1,5 +1,7 @@
 # Gabriel Cavalcante
 
+![01.gif]([http://url/to/img.png](https://raw.githubusercontent.com/zolppy/zolppy/main/files/01.gif))
+
 ## Tecnologias
 🥇 = passou na avaliação de competências do LinkedIn
 * Arduíno
