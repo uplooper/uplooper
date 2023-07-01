@@ -7,9 +7,7 @@
 * CSS3
 * Git
 * HTML5
-* JS
 * Java
-* PHP
 * SQL
 
 ## Social
