@@ -1,8 +1,8 @@
 ## Tecnologias
-🥇 = passou na avaliação de competências do LinkedIn
+🏆 = passou na avaliação de competências do LinkedIn
 * Arduíno
-* Bash 🥇
-* C 🥇
+* Bash 🏆
+* C 🏆
 * C++
 * CSS3
 * Git
@@ -18,4 +18,3 @@
 
 ## Outros
 * [Currículo](https://zolppy.github.io/zolppy) :link:
-* [Portfólio](https://github.com/zolppy) (em andamento) :link:
