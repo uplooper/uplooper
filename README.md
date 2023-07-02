@@ -1,12 +1,9 @@
 ## Tecnologias
 🏆 = passou na avaliação de competências do LinkedIn
-* Arduíno
 * Bash 🏆
 * C 🏆
-* C++
-* CSS3
-* Git
-* HTML5
+* CSS
+* HTML
 * Java
 * SQL
 
