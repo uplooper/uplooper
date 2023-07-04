@@ -1,8 +1,8 @@
 ## Tecnologias
-🎊🎉🎯 = passou na avaliação de competências do LinkedIn
+🎯 = passou na avaliação de competências do LinkedIn
 * Arduíno
-* Bash 🎊🎉🎯
-* C 🎊🎉🎯
+* Bash 🎯
+* C 🎯
 * C++
 * CSS
 * HTML
