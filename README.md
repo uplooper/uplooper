@@ -17,4 +17,4 @@
 * <a href="http://wa.me/5574981343313">WhatsApp</a>
 
 ## Outros
-* <a href="https://zolppy.github.io/zolppy">Currículo</a>
+* <a href="https://zolppy.github.io/zolppy" target="_blank">Currículo</a>
