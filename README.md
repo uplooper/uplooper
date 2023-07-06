@@ -1,8 +1,8 @@
 ## Tecnologias
-🎯 = passou na avaliação de competências do LinkedIn
+
 * Arduíno
-* Bash 🎯
-* C 🎯
+* Bash (passou na avaliação de competências do <a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/" target="_blank">LinkedIn</a>)
+* C (passou na avaliação de competências do <a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/" target="_blank">LinkedIn</a>)
 * C++
 * CSS
 * HTML
