@@ -18,5 +18,3 @@
 
 ## Outros
 * [Currículo](https://zolppy.github.io/zolppy) :link:
-
-<img src="https://github.com/zolppy/flashcopy/blob/main/images/output-01.png" alt="teste">Teste</img>
