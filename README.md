@@ -18,6 +18,7 @@
 * Tocar flauta
 * Resolver cubo mágico (Rubik's Cube)
 * Leitura
+* Música de concerto/clássica/erudita
 
 ## Outros
 * <a href="https://zolppy.github.io/zolppy">Currículo</a>
