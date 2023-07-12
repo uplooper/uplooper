@@ -2,11 +2,9 @@
 
 * Arduíno
 * C (passou na avaliação de competências do <a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a>)
-* C++
 * CSS
 * HTML
 * Java
-* Python
 * Shell Script (passou na avaliação de competências do <a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a>)
 * SQL
 
