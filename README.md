@@ -11,7 +11,7 @@
 ## Conquistas
 * Top 3604 no <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a>
 * Selo de competência do <a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a> em Linguagem C
-* Selo de competência do <a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a> em Linguaem Shell Script
+* Selo de competência do <a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a> em Linguagem Shell Script
 
 ## Social
 * <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a>
