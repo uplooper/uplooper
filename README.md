@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-<div align: center>
+<div style="text-align: center;">
   <h2>Achievements :trophy:</h2>
 
   <ul>
