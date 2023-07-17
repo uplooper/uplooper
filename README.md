@@ -8,12 +8,6 @@
 * Shell Script
 * SQL
 
-#someId {
-  font-family: monospace;
-}
-
-<span id="someId">Some text</span>
-
 ## Achievements :trophy:
 * Top 2789/519241 on <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a>
 * <a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a> Seal of Competency in C Language
