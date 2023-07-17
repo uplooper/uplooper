@@ -1,4 +1,4 @@
-<div style="color: #f00;">
+<div style="color: #f00000;">
   <h2>Technologies :computer:</h2>
 
   <ul>
