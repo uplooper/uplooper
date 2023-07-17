@@ -1,5 +1,5 @@
 <div>
-  <h2 color: blue;>Technologies :computer:</h2>
+  <h2>Technologies :computer:</h2>
 
   <ul>
     <li>Arduino</li>
