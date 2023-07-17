@@ -1,5 +1,5 @@
 <div>
-  <h2>Technologies :computer:</h2>
+  <h2>Technologies &#x1f4bb;</h2>
 
   <ul>
     <li>Arduino</li>
@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-<div style="text-align: center;">
+<div>
   <h2>Achievements :trophy:</h2>
 
   <ul>
