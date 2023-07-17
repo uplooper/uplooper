@@ -1,15 +1,17 @@
 <div>
   <h2>Technologies :computer:</h2>
-  
-  * Arduino
-  * C
-  * CSS
-  * HTML
-  * Java
-  * Shell Script
-  * SQL
-  * Swing
-  * PostgreSQL
+
+  <ul>
+    <li>Arduino</li>
+    <li>C</li>
+    <li>CSS</li>
+    <li>HTML</li>
+    <li>Java</li>
+    <li>Shell Script</li>
+    <li>SQL</li>
+    <li>Swing</li>
+    <li>PostgreSQL</li>
+  </ul>
 </div>
 
 <div>
