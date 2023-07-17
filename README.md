@@ -1,5 +1,5 @@
 <div>
-  <h2 font-family: monospace>Technologies :computer:</h2>
+  <h2 style="font-family: monospace;">Technologies :computer:</h2>
 
   <ul>
     <li>Arduino</li>
