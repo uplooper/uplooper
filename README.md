@@ -15,7 +15,7 @@
 </div>
 
 <div>
-  <h2>Achievements :trophy:</h2>
+  <h2>Achievements &#x1f3c6;</h2>
 
   <ul>
     <li>Top 2789/519241 on <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a></li>
@@ -25,7 +25,7 @@
 </div>
 
 <div>
-  <h2>Social :people_hugging:</h2>
+  <h2>Social &#x1fac2</h2>
 
   <ul>
     <li><a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a></li>
@@ -36,7 +36,7 @@
 </div>
 
 <div>
-  <h2>Others :books:</h2>
+  <h2>Others &#x1f4da</h2>
 
   <ul>
     <li><a href="https://zolppy.github.io/zolppy">Curriculum Vitae</a></li>
