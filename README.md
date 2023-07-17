@@ -7,6 +7,8 @@
 * Java
 * Shell Script
 * SQL
+* Swing
+* PostgreSQL
 
 ## Achievements :trophy:
 * Top 2789/519241 on <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a>
