@@ -36,6 +36,6 @@ a {
     text-decoration: none;
 }
 
-a:hover { font-size: 1.2em; }
+a:hover { font-weight: bold; }
 
 a:active { color: white; }
