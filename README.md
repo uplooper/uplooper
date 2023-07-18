@@ -18,7 +18,7 @@
   <h2>Achievements &#x1f3c6;</h2>
 
   <ul>
-    <li>Top 2789/519241 on <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a></li>
+    <li>Top 2465 of 519241 on <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a></li>
     <li><a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a> Seal of Competency in C Language</li>
     <li><a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a> Seal of Competency in Shell Script Language</li>
   </ul>
