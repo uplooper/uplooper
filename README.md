@@ -7,6 +7,7 @@
     <li>CSS</li>
     <li>HTML</li>
     <li>Java</li>
+    <li>JavaScript</li>
     <li>Shell Script</li>
     <li>SQL</li>
     <li>Swing</li>
