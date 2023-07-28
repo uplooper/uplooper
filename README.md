@@ -1,8 +1,9 @@
 <div>
-  <h2>Technologies &#x1f4bb;</h2>
+  <h2>Languages & Tools &#x1f4bb;</h2>
 
   <ul>
     <li>Arduino</li>
+    <li>Bootstrap (Learning)</li>
     <li>C</li>
     <li>CSS</li>
     <li>HTML</li>
@@ -10,7 +11,6 @@
     <li>JavaScript</li>
     <li>Shell Script</li>
     <li>SQL</li>
-    <li>Bootstrap (Learning)</li>
   </ul>
 </div>
 
