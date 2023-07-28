@@ -2,15 +2,16 @@
   <h2>Languages & Tools &#x1f4bb;</h2>
 
   <ul>
+    <li>SQL</li>
+    <li>Java</li>
     <li>Arduino</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
     <li>Bootstrap (Learning)</li>
     <li>C</li>
-    <li>CSS</li>
-    <li>HTML</li>
-    <li>Java</li>
-    <li>JavaScript</li>
+    <li>Makefile</li>
     <li>Shell Script</li>
-    <li>SQL</li>
   </ul>
 </div>
 
