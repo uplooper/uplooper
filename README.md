@@ -10,8 +10,7 @@
     <li>JavaScript</li>
     <li>Shell Script</li>
     <li>SQL</li>
-    <li>Swing</li>
-    <li>PostgreSQL</li>
+    <li>Bootstrap (Learning)</li>
   </ul>
 </div>
 
