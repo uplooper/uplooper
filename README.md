@@ -8,7 +8,6 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
-    <li>Bootstrap (Learning)</li>
     <li>C</li>
     <li>Makefile</li>
     <li>Shell Script</li>
