@@ -44,3 +44,9 @@
     <li><a href="https://drive.google.com/drive/folders/1d0CI4v6SahD471GgcGoZ1BvCuf5F-Am-?usp=drive_link">Certificates</a></li>
   </ul>
 </div>
+
+<div>
+<a href="https://github.com/MegMinnie">
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=7&theme=dracula" />
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MegMinnie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>
