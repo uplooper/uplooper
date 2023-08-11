@@ -20,8 +20,8 @@
 
   <ul>
     <li>Top 2341 of 519241 on <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a></li>
-    <li><a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a> Seal of Competency in C Language</li>
-    <li><a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242/">LinkedIn</a> Seal of Competency in Shell Script Language</li>
+    <li><a href="https://www.linkedin.com/in/zolppy/">LinkedIn</a> Seal of Competency in C Language</li>
+    <li><a href="https://www.linkedin.com/in/zolppy/">LinkedIn</a> Seal of Competency in Shell Script Language</li>
   </ul>
 </div>
 
@@ -31,7 +31,7 @@
   <ul>
     <li><a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a></li>
     <li><a href="mailto:gabriel.lcifba@gmail.com">G-mail</a></li>
-    <li><a href="https://www.linkedin.com/in/gabriel-cavalcante-225076242">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/zolppy">LinkedIn</a></li>
     <li><a href="http://wa.me/5574981343313">WhatsApp</a></li>
   </ul>
 </div>
