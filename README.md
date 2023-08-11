@@ -10,6 +10,7 @@
     <li>JavaScript</li>
     <li>Bootstrap</li>
     <li>C</li>
+    <li>Git e GitHub</li>
     <li>Makefile</li>
     <li>Shell Script</li>
   </ul>
