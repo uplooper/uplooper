@@ -5,8 +5,8 @@
     <li>SQL</li>
     <li>Java</li>
     <li>Arduino</li>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
     <li>JavaScript</li>
     <li>Bootstrap</li>
     <li>C</li>
