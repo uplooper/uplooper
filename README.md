@@ -2,13 +2,13 @@
   <h2>Languages & Tools &#x1f4bb;</h2>
 
   <ul>
-    <li>SQL</li>
-    <li>Java</li>
-    <li>Arduino</li>
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>Bootstrap</li>
+    <li>SQL</li>
+    <li>Java</li>
+    <li>Arduino</li>
     <li>C</li>
     <li>Git e GitHub</li>
     <li>Shell Script</li>
