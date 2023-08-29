@@ -6,6 +6,7 @@
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>Bootstrap</li>
+    <li>Learning React</li>
     <li>SQL</li>
     <li>Java</li>
     <li>Arduino</li>
