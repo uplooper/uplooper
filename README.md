@@ -47,6 +47,6 @@
 
 <div>
 <a href="https://github.com/zolppy">
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=com&langs_count=7&theme=dracula" />
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=compact&langs_count=7&theme=dracula" />
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=zolppy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
