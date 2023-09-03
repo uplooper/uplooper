@@ -9,7 +9,6 @@
     <li>React (learning)</li>
     <li>SQL</li>
     <li>Java</li>
-    <li>Arduino</li>
     <li>C</li>
     <li>Git e GitHub</li>
     <li>Shell Script</li>
