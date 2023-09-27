@@ -44,8 +44,3 @@
     <li><a href="https://drive.google.com/drive/folders/1d0CI4v6SahD471GgcGoZ1BvCuf5F-Am-?usp=drive_link">Certificates</a></li>
   </ul>
 </div>
-
-<div>
-<a href="https://github.com/zolppy">
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=compact&langs_count=7&theme=dracula" />
-</div>
