@@ -1,22 +1,83 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-    <title>Zolppy</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zolppy</title>
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      line-height: 1.6;
+      background-color: #efefef;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: #efefef;
+      padding: 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Zolppy</h1>
-    </header>
-    <main>
-        <h2>O que você gostaria de fazer?</h2>
-        <ul>
-            <li><a href="files/cv-01-11082023.pdf" download="Currículo - Gabriel Cavalcante.pdf">Download do currículo (atualizado em: 11 de agosto de 2023)</a></li>
-            <li><a href="https://github.com/zolppy/">Voltar para o perfil</a></li>
-        </ul>
-    </main>
+  <header>
+    <h1>Zolppy</h1>
+  </header>
+  <main>
+    <div #container>
+      <h2>O que você gostaria de fazer?</h2>
+      <ul>
+        <li>
+          <a
+            href="files/cv-01-11082023.pdf"
+            download="Currículo - Gabriel Cavalcante.pdf">
+            Download do currículo (atualizado em: 11 de agosto de 2023)
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/zolppy/">Voltar para o perfil</a>
+        </li>
+      </ul>
+    </div>
+  </main>
 </body>
 </html>
