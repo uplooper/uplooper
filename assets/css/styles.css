@@ -1,53 +1,47 @@
 @charset "UTF-8";
 
 :root {
+  --soft-white: #f5f5f5;
   --soft-black: #333;
-  --soft-white: #efefef;
-  --hard-white: #fff;
-  --soft-blue: #007bff;
 }
 
-body {
-  background-color: var(--soft-white);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   color: var(--soft-black);
   font-family: system-ui, -apple-system, sans-serif;
 }
 
-header {
-  background-color: var(--soft-black);
-  color: var(--soft-white);
-  padding: 30px 0;
-  text-align: center;
+body {
+  background-color: var(--soft-white);
 }
 
-header h1 {
-  font-weight: bold;
-  font-size: 1.6rem;
+header {
+  margin: 15px;
+}
+
+#title {
+  font-size: 2.2rem;
 }
 
 #container {
-  max-width: 380px;
-  margin: auto;
-  padding: 10px;
-  background-color: var(--hard-white);
-  box-shadow: 5px 7px 15px rgba(0, 0, 0, .2);
-  border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px;
+  margin-left: 15px;
 }
 
-h2 {
-  font-size: 1.3rem;
-  margin-bottom: 20px;
-  text-align: center;
+#question {
+  font-size: 1.2rem;
 }
 
-li {
-  margin-top: 25px;
+#list {
+  margin-top: 15px;
+  margin-left: 25px;
+  list-style-type: circle;
 }
 
 a {
-  color: var(--soft-blue);
   text-decoration: none;
+  color: dodgerblue;
 }
 
 a:hover {
