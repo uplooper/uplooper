@@ -28,7 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55px" />
 
   <br>
-  <p>Obs.: essas não são as únicas linguagens/ferramentas que conheço, porem são as que jugo possuir mais domínio.</p>
+  <br>
+  <p>Note: these are not the only languages/tools I know, but they are the ones I know I have the most command of.</p>
 </div>
 
 <div>
