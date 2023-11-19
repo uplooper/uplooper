@@ -1,7 +1,7 @@
 <div>
   <h2>About me &#x1f468;</h2>
   <ul>
-    <li>Front-end developer at <a href="https://www.eruda.com.br">Eruda</a></li>
+    <li>Front-end Developer at <a href="https://www.eruda.com.br">Eruda</a></li>
     <li>Graduating in Computer Science at <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
   
