@@ -1,9 +1,8 @@
 <div>
   <h2>About me &#x1f468;</h2>
   <ul>
-    <li>Front-end developer at Eruda</li>
-    <li>Graduating in Computer Science</li>
-    <li>Passionate about Information Technology</li>
+    <li>Front-end developer at <a href="https://www.eruda.com.br">Eruda</a></li>
+    <li>Graduating in Computer Science at <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
   
   <h2>Languages & Tools (Web) &#x1f4bb;</h2>
@@ -52,9 +51,9 @@
   <h2>Achievements &#x1f3c6;</h2>
 
   <ul>
-    <li>Top 2341 of 519241 on <a href="https://www.beecrowd.com.br/judge/pt/profile/853225">Beecrowd</a></li>
-    <li><a href="https://www.linkedin.com/in/zolppy/">LinkedIn</a> Seal of Competency in C Language</li>
-    <li><a href="https://www.linkedin.com/in/zolppy/">LinkedIn</a> Seal of Competency in Shell Script Language</li>
+    <li>Top 2341 of 519241 on Beecrowd</li>
+    <li>LinkedIn Seal of Competency in C Language</li>
+    <li>LinkedIn Seal of Competency in Shell Script Language</li>
   </ul>
 </div>
 
