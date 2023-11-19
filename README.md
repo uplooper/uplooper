@@ -4,9 +4,10 @@
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
+    <li>SASS</li>
     <li>JavaScript</li>
     <li>Bootstrap</li>
-    <li>React (learning)</li>
+    <li>React</li>
     <li>SQL</li>
     <li>Java</li>
     <li>C</li>
