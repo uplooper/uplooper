@@ -1,4 +1,11 @@
 <div>
+  <h2>About me &#x1f468;</h2>
+  <ul>
+    <li>Front-end developer at Eruda</li>
+    <li>Graduating in Computer Science</li>
+    <li>Passionate about Information Technology</li>
+  </ul>
+  
   <h2>Languages & Tools (Web) &#x1f4bb;</h2>
 
   <ul>
