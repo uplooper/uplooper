@@ -14,6 +14,7 @@
     <li>JavaScript</li>
     <li>Bootstrap</li>
     <li>React</li>
+    <li>React Native</li>
   </ul>
 
   <br>
