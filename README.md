@@ -79,6 +79,3 @@
     <li><a href="https://drive.google.com/drive/folders/1d0CI4v6SahD471GgcGoZ1BvCuf5F-Am-?usp=drive_link">Certificates</a></li>
   </ul>
 </div>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zolppy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=compact&langs_count=7&theme=dracula" />
