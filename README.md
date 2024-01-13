@@ -43,9 +43,9 @@
     }
   }
 
-  console.log(`Hello!, my name is ${me.name}!`);
-  console.log(`I'm ${me.job.title} at ${me.job.company}!`);
-  console.log(`I'm cursing ${me.graduation.name} on ${me.graduation.institution}!`);
+  console.info(`Hello!, my name is ${me.name}!`);
+  console.info(`I'm ${me.job.title} at ${me.job.company}!`);
+  console.info(`I'm cursing ${me.graduation.name} on ${me.graduation.institution}!`);
   ```
  
   <h2>Languages & Tools (Web) &#x1f4bb;</h2>
