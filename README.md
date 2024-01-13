@@ -4,6 +4,49 @@
     <li>Front-end Developer at <a href="https://www.eruda.com.br">Eruda</a></li>
     <li>Graduating in Computer Science at <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
+
+  ```typescript
+  type Job = {
+    position?: string;
+    title: string;
+    company: string;
+    time?: string;
+  }
+  
+  type Graduation = {
+    name: string;
+    institution: string;
+    semester: number;
+  }
+  
+  type People = {
+    age?: number;
+    name?: string;
+    fullName: string;
+    job: Job;
+    graduation: Graduation;
+  }
+  
+  const me: People = {
+    name: "Gabriel",
+    fullName: "Gabriel Cavalcante de Jesus Oliveira",
+    job: {
+      position: "Intern",
+      title: "Front-end Software Developer",
+      company: "Eruda",
+      time: "0Y 2M 15D"
+    },
+    graduation: {
+      name: "Licenciatura em Computação",
+      institution: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
+      semester: 7
+    }
+  }
+
+  console.log(`Hello!, my name is ${me.name}!`);
+  console.log(`I'm ${me.job.title} at ${me.job.company}!`);
+  console.log(`I'm cursing ${me.graduation.name} on ${me.graduation.institution}!`);
+  ```
  
   <h2>Languages & Tools (Web) &#x1f4bb;</h2>
 
