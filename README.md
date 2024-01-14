@@ -11,18 +11,25 @@
     name: "Gabriel",
     fullName: "Gabriel Cavalcante de Jesus Oliveira",
     job: {
-      position: "Intern",
-      title: "Front-end Software Developer",
+      position: "Estagiário",
+      title: "Desenvolvedor de Software Front-end",
       company: "Eruda",
-      since: "28/10/2023",
-      time: "0Y 2M"
+      since: "15/01/2024",
+      time: "0M"
     },
     education: {
       name: "Licenciatura em Computação",
-      type: "graduation",
-      state: "in progress",
+      type: "Graduação",
+      state: "Em progresso",
       institution: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
       semester: 7
+    },
+    address: {
+      country: "Brasil",
+      state: "Bahia",
+      city: "Várzea Nova",
+      street: null,
+      number: null
     }
   }
   ```
