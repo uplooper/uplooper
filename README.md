@@ -15,8 +15,8 @@
       title: "Front-end Software Developer",
       company: "Eruda",
       since: "28/10/2023",
-      time: "0Y 2M",
-    }
+      time: "0Y 2M"
+    },
     graduation: {
       name: "Licenciatura em Computação",
       institution: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
