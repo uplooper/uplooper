@@ -5,55 +5,24 @@
     <li>Graduating in Computer Science at <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
 
-  ```typescript
-  type Job = {
-    position: string;
-    title: string;
-    company: string;
-    time?: string;
-  }
-  
-  type Graduation = {
-    name: string;
-    institution: string;
-    semester: number;
-  }
-  
-  type Person = {
-    age?: number;
-    name: string;
-    fullName: string;
-    job?: Job;
-    graduation?: Graduation;
-  }
-  
-  const me: Person = {
-    name: "Gabriel",
-    fullName: "Gabriel Cavalcante de Jesus Oliveira",
+  ```javascript
+  const me = {
+    age: null,
+    name: Gabriel,
+    fullName: Gabriel Cavalcante de Jesus Oliveira,
     job: {
       position: "Intern",
       title: "Front-end Software Developer",
       company: "Eruda",
-      time: "0Y 2M 15D"
-    },
+      since: "28/10/2023",
+      time: "0Y 2M",
+    }
     graduation: {
       name: "Licenciatura em Computação",
       institution: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
       semester: 7
     }
   }
-
-  function selfPresentation(me: Person): void {
-    console.info(`Hello!, my name is ${me.name}!`);
-    console.info(`I'm ${me.job.title} at ${me.job.company}!`);
-    console.info(`I'm cursing ${me.graduation.name} at ${me.graduation.institution}!`);
-  }
-
-  selfPresentation(me);
-
-  >> Hello!, my name is Gabriel!
-  >> I'm Front-end Software Developer at Eruda!
-  >> I'm cursing Licenciatura em Computação at IFBA (Intituto Federal de Educação, Ciência e Tecnologia da Bahia)!
   ```
  
   <h2>Languages & Tools (Web) &#x1f4bb;</h2>
