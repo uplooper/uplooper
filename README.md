@@ -17,8 +17,10 @@
       since: "28/10/2023",
       time: "0Y 2M"
     },
-    graduation: {
+    education: {
       name: "Licenciatura em Computação",
+      type: "graduation",
+      state: "in progress",
       institution: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
       semester: 7
     }
