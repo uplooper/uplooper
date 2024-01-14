@@ -21,13 +21,26 @@
       name: "Licenciatura em Computação",
       type: "Graduação",
       state: "Em progresso",
-      institution: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
+      institution: {
+        name: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
+        address: {
+          country: "Brasil",
+          state: "Bahia",
+          cep: "44700-000",
+          city: "Jacobina",
+          district: "Nazaré",
+          street: Av. Centenário,
+          number: 500
+        }
+      },
       semester: 7
     },
     address: {
       country: "Brasil",
       state: "Bahia",
+      cep: "44690-000",
       city: "Várzea Nova",
+      district: null,
       street: null,
       number: null
     }
