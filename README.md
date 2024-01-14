@@ -95,6 +95,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55px" />
   <br>
   <br>
+
+  ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+  ![Shell Script](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+  
   <p>Note: these are not the only languages/tools I know, but they are the ones I know I have the most command of.</p>
 </div>
 
