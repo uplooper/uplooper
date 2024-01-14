@@ -29,7 +29,7 @@
           cep: "44700-000",
           city: "Jacobina",
           district: "Nazaré",
-          street: Av. Centenário,
+          street: "Av. Centenário",
           number: 500
         }
       },
