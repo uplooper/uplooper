@@ -33,7 +33,8 @@
           number: 500
         }
       },
-      semester: 7
+      semester: 7,
+      modality: "Presencial"
     },
     address: {
       country: "Brasil",
