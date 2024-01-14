@@ -8,8 +8,8 @@
   ```javascript
   const me = {
     age: null,
-    name: Gabriel,
-    fullName: Gabriel Cavalcante de Jesus Oliveira,
+    name: "Gabriel",
+    fullName: "Gabriel Cavalcante de Jesus Oliveira",
     job: {
       position: "Intern",
       title: "Front-end Software Developer",
