@@ -15,7 +15,7 @@
       title: "Desenvolvedor de Software Front-end",
       company: "Eruda",
       since: "15/01/2024",
-      time: "0M"
+      time: "0A 0M"
     },
     education: {
       name: "Licenciatura em Computação",
