@@ -48,7 +48,7 @@
   <br>
   <br>
   
-  <p>Nota: essas não são as únicas linguagens, ferramentas, frameworks que conheço, são as que considero ter maior domínio.</p>
+  <p>Nota: essas não são as únicas linguagens, frameworks, bibliotecas que conheço, são as que considero ter maior domínio.</p>
 </div>
 
 <div>
