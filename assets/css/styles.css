@@ -1,32 +1,28 @@
 @charset "UTF-8";
 
+html {
+  font-size: 16px;
+}
+
 :root {
   --soft-white: #f5f5f5;
   --soft-black: #333;
 }
 
 * {
+  box-sizing: border-box;
+  font: 400 1rem/1 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  color: var(--soft-black);
-  font-family: system-ui, -apple-system, sans-serif;
 }
 
 body {
-  background-color: var(--soft-white);
-}
-
-header {
-  margin: 15px;
-}
-
-#title {
-  font-size: 2.2rem;
+  color: var(--soft-white);
+  background-color: var(--soft-black);
 }
 
 #container {
-  margin-left: 15px;
+  margin: 5% 0 0 5%;
 }
 
 #question {
@@ -34,14 +30,18 @@ header {
 }
 
 #list {
-  margin-top: 15px;
-  margin-left: 25px;
-  list-style-type: circle;
+  margin: 5% 0 0 5%;
+  font-weight: 600;
+}
+
+li:first-child {
+  margin-bottom: 1.5%;
 }
 
 a {
   text-decoration: none;
   color: dodgerblue;
+  font-weight: 600;
 }
 
 a:hover {
