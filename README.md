@@ -1,11 +1,11 @@
 <div>
-  <h2>About me &#x1f468;</h2>
+  <h2>Sobre mim &#x1f466;</h2>
   <ul>
-    <li>Front-end Developer at <a href="https://www.eruda.com.br">Eruda</a></li>
-    <li>Graduating in Computer Science at <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
+    <li>Desenvolvedor Front-end na <a href="https://www.eruda.com.br">Eruda</a></li>
+    <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
  
-  <h2>Languages & Tools (Web) &#x1f4bb;</h2>
+  <h2>Linguagens, frameworks, bibliotecas (Web) &#x1f4bb;</h2>
 
   <ul>
     <li>HTML5</li>
@@ -29,7 +29,7 @@
   <br>
   <br>
 
-  <h2>Languages & Tools (Others) &#x1f4bb;</h2>
+  <h2>Linguagens, frameworks, bibliotecas (Outros) &#x1f4bb;</h2>
   <ul>
     <li>SQL</li>
     <li>Java</li>
@@ -48,16 +48,16 @@
   <br>
   <br>
   
-  <p>Note: these are not the only languages/tools I know, but they are the ones I know I have the most command of.</p>
+  <p>Nota: essas não são as únicas linguagens, ferramentas, frameworks que conheço, são as que considero ter maior domínio.</p>
 </div>
 
 <div>
-  <h2>Achievements &#x1f3c6;</h2>
+  <h2>Conquistas &#x1f3c6;</h2>
 
   <ul>
-    <li>Top 2341 of 519241 on Beecrowd</li>
-    <li>LinkedIn Seal of Competency in C Language</li>
-    <li>LinkedIn Seal of Competency in Shell Script Language</li>
+    <li>Top 2341 de 519241 no Beecrowd</li>
+    <li>Selo de competência do LinkedIn em Linguagem de Programação C</li>
+    <li>Selo de competência do LinkedIn em Linguagem de Programação Shell Script</li>
   </ul>
 </div>
 
@@ -73,10 +73,10 @@
 </div>
 
 <div>
-  <h2>Others &#x1f4da</h2>
+  <h2>Outros &#x1f4da</h2>
 
   <ul>
-    <li><a href="https://zolppy.github.io/zolppy">Curriculum Vitae</a></li>
-    <li><a href="https://drive.google.com/drive/folders/1d0CI4v6SahD471GgcGoZ1BvCuf5F-Am-?usp=drive_link">Certificates</a></li>
+    <li><a href="https://zolppy.github.io/zolppy">Currículo pessoal</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1d0CI4v6SahD471GgcGoZ1BvCuf5F-Am-?usp=drive_link">Certificações</a></li>
   </ul>
 </div>
