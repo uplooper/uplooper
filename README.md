@@ -80,3 +80,5 @@
     <li><a href="https://drive.google.com/drive/folders/1d0CI4v6SahD471GgcGoZ1BvCuf5F-Am-?usp=drive_link">Certificações</a></li>
   </ul>
 </div>
+
+<span>[![](https://visitcount.itsvg.in/api?id=n4ju15&icon=5&color=10)](https://visitcount.itsvg.in)</span>
