@@ -6,6 +6,49 @@
     <li>Desenvolvedor Front-end na <a href="https://www.eruda.com.br">Eruda</a></li>
     <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
+
+  ```javascript
+  const me = {
+    age: null,
+    name: "Gabriel",
+    fullName: "Gabriel Cavalcante de Jesus Oliveira",
+    job: {
+      position: "Estagiário",
+      title: "Desenvolvedor de Software Front-end",
+      company: "Eruda",
+      since: "15/01/2024",
+      time: "0A 0M"
+    },
+    education: {
+      name: "Licenciatura em Computação",
+      type: "Graduação",
+      state: "Em progresso",
+      institution: {
+        name: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
+        address: {
+          country: "Brasil",
+          state: "Bahia",
+          cep: "44700-000",
+          city: "Jacobina",
+          district: "Nazaré",
+          street: "Av. Centenário",
+          number: 500
+        }
+      },
+      semester: 7,
+      modality: "Presencial"
+    },
+    address: {
+      country: "Brasil",
+      state: "Bahia",
+      cep: "44690-000",
+      city: "Várzea Nova",
+      district: null,
+      street: null,
+      number: null
+    }
+  }
+  ```
  
   <h2>Linguagens, frameworks, bibliotecas (Web) &#x1f4bb;</h2>
 
