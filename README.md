@@ -8,45 +8,45 @@
   </ul>
 
   ```javascript
-  const me = {
-    age: null,
-    name: "Gabriel",
-    fullName: "Gabriel Cavalcante de Jesus Oliveira",
-    job: {
-      position: "Estagiário",
-      title: "Desenvolvedor de Software Front-end",
-      company: "Eruda",
-      since: "15/01/2024",
-      time: "0A 0M",
-      modality: "home office"
+  const mim = {
+    idade: null,
+    nome: "Gabriel",
+    nomeCompleto: "Gabriel Cavalcante de Jesus Oliveira",
+    emprego: {
+      posicao: "Estagiário",
+      titulo: "Desenvolvedor de Software Front-end",
+      compania: "Eruda",
+      desde: "15/01/2024",
+      tempo: "0A 0M",
+      modalidade: "home office"
     },
-    education: {
-      name: "Licenciatura em Computação",
-      type: "Graduação",
-      state: "Em progresso",
-      institution: {
-        name: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
-        address: {
-          country: "Brasil",
-          state: "Bahia",
+    educacao: {
+      nome: "Licenciatura em Computação",
+      tipo: "Graduação",
+      estado: "Em progresso",
+      instituicao: {
+        nome: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
+        endereco: {
+          pais: "Brasil",
+          estado: "Bahia",
           cep: "44700-000",
-          city: "Jacobina",
-          district: "Nazaré",
-          street: "Av. Centenário",
-          number: 500
+          cidade: "Jacobina",
+          bairro: "Nazaré",
+          rua: "Av. Centenário",
+          numero: 500
         }
       },
-      semester: 7,
-      modality: "Presencial"
+      semestre: 7,
+      modalidade: "Presencial"
     },
-    address: {
-      country: "Brasil",
-      state: "Bahia",
+    endereco: {
+      pais: "Brasil",
+      estado: "Bahia",
       cep: "44690-000",
-      city: "Várzea Nova",
-      district: null,
-      street: null,
-      number: null
+      cidade: "Várzea Nova",
+      bairro: null,
+      rua: null,
+      numero: null
     }
   }
   ```
@@ -104,3 +104,5 @@
 </div>
 
 <span>[![](https://visitcount.itsvg.in/api?id=zolppy&icon=5&color=10)](https://visitcount.itsvg.in)</span>
+
+*Obs.: visão geral do perfil em português para deixá-la mais acessível àqueles que não dominam inglês.
