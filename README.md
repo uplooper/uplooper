@@ -105,4 +105,4 @@
 
 <span>[![](https://visitcount.itsvg.in/api?id=zolppy&icon=5&color=10)](https://visitcount.itsvg.in)</span>
 
-*Obs.: visão geral do perfil em português, para deixá-la mais acessível àqueles que não dominam inglês.
+*Obs.: perfil em português, para torná-lo mais acessível àqueles que não dominam inglês.
