@@ -1,4 +1,5 @@
 <!-- Onde obter badges: https://ileriayo.github.io/markdown-badges/ -->
+*Obs.: perfil em português, para torná-lo mais acessível àqueles que não dominam inglês.
 
 <div>
   <h2>Sobre mim &#x1f466;</h2>
@@ -104,5 +105,3 @@
 </div>
 
 <span>[![](https://visitcount.itsvg.in/api?id=zolppy&icon=5&color=10)](https://visitcount.itsvg.in)</span>
-
-*Obs.: perfil em português, para torná-lo mais acessível àqueles que não dominam inglês.
