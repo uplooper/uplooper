@@ -13,15 +13,15 @@
     idade: null,
     nome: "Gabriel",
     nomeCompleto: "Gabriel Cavalcante de Jesus Oliveira",
-    emprego: {
+    empregoAtual: {
       posicao: "Estagiário",
-      titulo: "Desenvolvedor de Software Front-end",
+      titulo: "Desenvolvedor Front-end",
       compania: "Eruda",
       desde: "15/01/2024",
-      tempo: "0A 0M",
+      tempo: "1/2 M",
       modalidade: "home office"
     },
-    educacao: {
+    educacaoAtual: {
       nome: "Licenciatura em Computação",
       tipo: "Graduação",
       estado: "Em progresso",
@@ -39,14 +39,15 @@
       },
       semestre: 7,
       modalidade: "Presencial"
+      forma: "Licenciatura"
     },
     endereco: {
       pais: "Brasil",
       estado: "Bahia",
       cep: "44690-000",
       cidade: "Várzea Nova",
-      bairro: null,
-      rua: null,
+      bairro: "",
+      rua: "",
       numero: null
     }
   }
