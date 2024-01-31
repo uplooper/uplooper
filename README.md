@@ -90,18 +90,18 @@
 <div>
   <h2>Social &#x1fac2</h2>
   <ul>
-    <li><a href="https://zolppy.github.io/my-links/">Beecrowd</a></li>
-    <li><a href="https://zolppy.github.io/my-links/">G-mail</a></li>
-    <li><a href="https://zolppy.github.io/my-links/">LinkedIn</a></li>
-    <li><a href="https://zolppy.github.io/my-links/">WhatsApp</a></li>
+    <li><a href="https://my-links-one-woad.vercel.app/">Beecrowd</a></li>
+    <li><a href="https://my-links-one-woad.vercel.app/">G-mail</a></li>
+    <li><a href="https://my-links-one-woad.vercel.app/">LinkedIn</a></li>
+    <li><a href="https://my-links-one-woad.vercel.app/">WhatsApp</a></li>
   </ul>
 </div>
 
 <div>
   <h2>Outros &#x1f4da</h2>
   <ul>
-    <li><a href="https://zolppy.github.io/my-links/">Currículo</a></li>
-    <li><a href="https://zolppy.github.io/my-links/">Certificações</a></li>
+    <li><a href="https://my-links-one-woad.vercel.app/">Currículo</a></li>
+    <li><a href="https://my-links-one-woad.vercel.app/">Certificações</a></li>
   </ul>
 </div>
 
