@@ -38,7 +38,7 @@
         }
       },
       semestre: 7,
-      modalidade: "Presencial"
+      modalidade: "Presencial",
       forma: "Licenciatura"
     },
     endereco: {
