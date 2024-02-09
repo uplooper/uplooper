@@ -1,4 +1,3 @@
-<!-- Onde obter badges: https://ileriayo.github.io/markdown-badges/ -->
 *Obs.: perfil em português, para torná-lo mais acessível àqueles que não dominam inglês.
 
 <div>
