@@ -13,6 +13,7 @@
     idade: null,
     nome: "Gabriel",
     nomeCompleto: "Gabriel Cavalcante de Jesus Oliveira",
+    genre: "male",
     empregoAtual: {
       posicao: "Estagiário",
       titulo: "Desenvolvedor Front-end",
