@@ -18,7 +18,7 @@
       titulo: "Desenvolvedor Front-end",
       compania: "Eruda",
       desde: "15/01/2024",
-      tempo: "0 mês(es)",
+      tempo: "1 mês(es)",
       modalidade: "home office"
     },
     educacaoAtual: {
