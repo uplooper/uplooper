@@ -17,8 +17,8 @@
       posicao: "Estagiário",
       titulo: "Desenvolvedor Front-end",
       compania: "Eruda",
-      desde: "15/01/2024",
-      tempo: "1 mês(es)",
+      desde: "28/10/2023",
+      tempo: "3 mês(es)",
       modalidade: "home office"
     },
     educacaoAtual: {
