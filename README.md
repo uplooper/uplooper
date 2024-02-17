@@ -100,7 +100,7 @@
 <div>
   <h2>Outros &#x1f4da</h2>
   <ul>
-    <li><a href="https://my-links-one-woad.vercel.app/">Currículo</a></li>
+    <li><a href="https://my-links-one-woad.vercel.app/">Currículo (desatualizado)</a></li>
     <li><a href="https://my-links-one-woad.vercel.app/">Certificações</a></li>
   </ul>
 </div>
