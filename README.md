@@ -63,7 +63,7 @@
     <li>TypeScript</li>
     <li>Bootstrap</li>
     <li>React</li>
-    <li>React Native</li>
+    <li>Next</li>
   </ul>
 
   <h2>Linguagens, frameworks, bibliotecas (Outros) &#x1f4bb;</h2>
