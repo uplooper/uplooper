@@ -63,6 +63,7 @@
     <li>TypeScript</li>
     <li>Bootstrap</li>
     <li>React</li>
+    <li>React Native</li>
     <li>Next</li>
   </ul>
 
