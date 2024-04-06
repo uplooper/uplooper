@@ -12,7 +12,7 @@
     idade: null,
     nome: "Gabriel",
     nomeCompleto: "Gabriel Cavalcante de Jesus Oliveira",
-    genre: "male",
+    genero: "masculino",
     empregoAtual: {
       posicao: "Estagiário",
       titulo: "Desenvolvedor Front-end",
@@ -101,7 +101,7 @@
 <div>
   <h2>Outros &#x1f4da</h2>
   <ul>
-    <li><a href="https://zolppy.github.io/my-links/">Currículo (desatualizado)</a></li>
+    <li><a href="https://zolppy.github.io/my-links/">Currículo</a></li>
     <li><a href="https://zolppy.github.io/my-links/">Certificações</a></li>
   </ul>
 </div>
