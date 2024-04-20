@@ -1,4 +1,4 @@
-*Obs.: perfil em português, para torná-lo mais acessível àqueles que não dominam inglês.
+<p>*Obs.: perfil em português, para torná-lo mais acessível àqueles que não dominam inglês.</p>
 
 <div>
   <h2>Sobre mim &#x1f466;</h2>
@@ -76,7 +76,7 @@
     <li>Shell Script</li>
   </ul>
   
-  <p>Nota: essas não são as únicas linguagens, frameworks, bibliotecas que conheço, são as que considero ter maior domínio.</p>
+  <p>*Obs.: essas não são as únicas linguagens, frameworks, bibliotecas que conheço, são as que considero ter maior domínio.</p>
 </div>
 
 <div>
@@ -101,6 +101,7 @@
 <div>
   <h2>Linguagens mais utilizadas &#x1f680</h2>
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=pie&langs_count=99&theme=dark" />
+  <p>*Obs.: a imagem acima reflete apenas as linguagens mais utilizadas em projetos pessoais</p>
 </div>
 
 <div>
