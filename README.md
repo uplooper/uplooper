@@ -45,9 +45,9 @@
     }
   ]
   ```
- 
-  <h2>Linguagens, frameworks, bibliotecas (Web) &#x1f4bb;</h2>
 
+ <div>
+  <h2>Tecnologias web &#x1f4bb;</h2>
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
@@ -59,8 +59,8 @@
     <li>React Native</li>
     <li>Next</li>
   </ul>
-
-  <h2>Linguagens, frameworks, bibliotecas (Outros) &#x1f4bb;</h2>
+  
+  <h2>Outras tecnologias &#x1f4bb;</h2>
   <ul>
     <li>SQL</li>
     <li>Java</li>
@@ -69,7 +69,7 @@
     <li>Shell Script</li>
   </ul>
   
-  <p>*Obs.: essas não são as únicas linguagens, frameworks, bibliotecas que conheço, são as que considero ter maior domínio.</p>
+  <p>*Obs.: essas não são as únicas tecnologias que conheço, são as que considero ter maior domínio.</p>
 </div>
 
 <div>
