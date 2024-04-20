@@ -82,7 +82,7 @@
 <div>
   <h2>Conquistas &#x1f3c6;</h2>
   <ul>
-    <li>Top 2341 de 519241 no Beecrowd</li>
+    <li>Ranking top no Beecrowd</li>
     <li>Selo de competência do LinkedIn em Linguagem de Programação C</li>
     <li>Selo de competência do LinkedIn em Linguagem de Programação Shell Script</li>
   </ul>
