@@ -101,7 +101,7 @@
 <div>
   <h2>Linguagens mais utilizadas &#x1f680</h2>
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=pie&langs_count=99&theme=dark" />
-  <p>*Obs.: a imagem acima reflete apenas as linguagens mais utilizadas em projetos pessoais</p>
+  <p>*Obs.: a imagem acima reflete apenas as linguagens mais utilizadas em projetos pessoais.</p>
 </div>
 
 <div>
