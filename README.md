@@ -106,4 +106,9 @@
   </ul>
 </div>
 
+<div>
+  <h2>Linguagens mais utilizadas &#x1f680</h2>
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
 <span>[![](https://visitcount.itsvg.in/api?id=zolppy&icon=5&color=12)](https://visitcount.itsvg.in)</span>
