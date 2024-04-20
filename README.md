@@ -7,50 +7,43 @@
     <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
 
-  ```javascript
-  const mim = {
-    idade: null,
-    nome: "Gabriel",
-    nomeCompleto: "Gabriel Cavalcante de Jesus Oliveira",
-    genero: "masculino",
-    empregoAtual: {
-      posicao: "Estagiário",
-      titulo: "Desenvolvedor Front-end",
-      compania: "Eruda",
-      desde: "28/10/2023",
-      tempo: "5 mês(es)",
-      modalidade: "home office"
-    },
-    educacaoAtual: {
-      nome: "Licenciatura em Computação",
-      tipo: "Graduação",
-      estado: "Em progresso",
-      instituicao: {
-        nome: "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
-        endereco: {
-          pais: "Brasil",
-          estado: "Bahia",
-          cep: "44700-000",
-          cidade: "Jacobina",
-          bairro: "Nazaré",
-          rua: "Av. Centenário",
-          numero: 500
-        }
+  ```json
+  [
+    {
+      "nomeCompleto": "Gabriel Cavalcante de Jesus Oliveira",
+      "genero": "masculino",
+      "emprego": {
+        "posicao": "Estagiário",
+        "titulo": "Desenvolvedor Front-end",
+        "compania": "Eruda",
+        "desde": "28/10/2023",
+        "tempo": "5 mês(es)",
+        "modalidade": "home office"
       },
-      semestre: 7,
-      modalidade: "Presencial",
-      forma: "Licenciatura"
-    },
-    endereco: {
-      pais: "Brasil",
-      estado: "Bahia",
-      cep: "44690-000",
-      cidade: "Várzea Nova",
-      bairro: "",
-      rua: "",
-      numero: null
+      "formacao": {
+        "nome": "Licenciatura em Computação",
+        "tipo": "Graduação",
+        "estado": "Em progresso",
+        "instituicao": {
+          "nome": "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
+          "endereco": {
+            "pais": "Brasil",
+            "estado": "Bahia",
+            "cep": "44700-000",
+            "cidade": "Jacobina"
+          }
+        },
+        "semestre": 7,
+        "modalidade": "Presencial"
+      },
+      "endereco": {
+        "pais": "Brasil",
+        "estado": "Bahia",
+        "cep": "44690-000",
+        "cidade": "Várzea Nova"
+      }
     }
-  }
+  ]
   ```
  
   <h2>Linguagens, frameworks, bibliotecas (Web) &#x1f4bb;</h2>
