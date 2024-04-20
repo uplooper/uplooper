@@ -99,16 +99,16 @@
 </div>
 
 <div>
+  <h2>Linguagens mais utilizadas &#x1f680</h2>
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=pie&langs_count=99&theme=dark" />
+</div>
+
+<div>
   <h2>Outros &#x1f4da</h2>
   <ul>
     <li><a href="https://zolppy.github.io/my-links/">Currículo</a></li>
     <li><a href="https://zolppy.github.io/my-links/">Certificações</a></li>
   </ul>
-</div>
-
-<div>
-  <h2>Linguagens mais utilizadas &#x1f680</h2>
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 <span>[![](https://visitcount.itsvg.in/api?id=zolppy&icon=5&color=12)](https://visitcount.itsvg.in)</span>
