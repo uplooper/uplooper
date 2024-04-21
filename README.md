@@ -59,6 +59,8 @@
     <li>React Native</li>
     <li>Next</li>
   </ul>
+
+  <p>*Obs.: essas não são as únicas tecnologias que conheço, são as que jugo ter maior domínio.</p>
   
   <h2>Outras tecnologias &#x1f4bb;</h2>
   <ul>
@@ -69,7 +71,7 @@
     <li>Shell Script</li>
   </ul>
   
-  <p>*Obs.: essas não são as únicas tecnologias que conheço, são as que considero ter maior domínio.</p>
+  <p>*Obs.: essas não são as únicas tecnologias que conheço, são as que jugo ter maior domínio.</p>
 </div>
 
 <div>
