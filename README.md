@@ -47,31 +47,41 @@
   ```
 
  <div>
-  <h2>Tecnologias web &#x1f4bb;</h2>
+  <h2>PRINCIPAIS competências (hard skills) &#x1f4bb;</h2>
   <ul>
+    <li>Metodologias Agile</li>
+    <li>Kanban</li>
     <li>HTML5</li>
+    <li>Scrum</li>
     <li>CSS3</li>
-    <li>SASS</li>
+    <li>Sass</li>
+    <li>Inglês</li>
     <li>JavaScript</li>
     <li>TypeScript</li>
     <li>Bootstrap</li>
-    <li>React</li>
+    <li>React.js</li>
     <li>React Native</li>
-    <li>Next</li>
-  </ul>
-
-  <p>*Obs.: essas não são as únicas tecnologias que conheço, são as que jugo ter maior domínio.</p>
-  
-  <h2>Outras tecnologias &#x1f4bb;</h2>
-  <ul>
+    <li>Next.js</li>
     <li>SQL</li>
     <li>Java</li>
     <li>C</li>
-    <li>Git e GitHub</li>
+    <li>Git</li>
+    <li>GitHub</li>
     <li>Shell Script</li>
   </ul>
-  
-  <p>*Obs.: essas não são as únicas tecnologias que conheço, são as que jugo ter maior domínio.</p>
+</div>
+
+<div>
+  <h2>PRINCIPAIS competências (soft skills) &#x1f4bb;</h2>
+  <ul>
+    <li>Aprendizagem rápida</li>
+    <li>Adaptação</li>
+    <li>Empatia</li>
+    <li>Trabalho em equipe</li>
+    <li>Comunicação</li>
+    <li>Foco</li>
+    <li>Disciplina</li>
+  </ul>
 </div>
 
 <div>
