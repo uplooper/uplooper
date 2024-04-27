@@ -58,6 +58,7 @@
     <li>Kanban</li>
     <li>Scrum</li>
     <li>Bootstrap</li>
+    <li>Redux</li>
     <li>React.js</li>
     <li>React Native</li>
     <li>Next.js</li>
