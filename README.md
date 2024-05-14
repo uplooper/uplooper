@@ -88,7 +88,7 @@
 <div>
   <h2>Conquistas :trophy:</h2>
   <ul>
-    <li>Ranking top no Beecrowd</li>
+    <li>Ranking alto no Beecrowd</li>
     <li>Selo de competência do LinkedIn em Linguagem de Programação C</li>
     <li>Selo de competência do LinkedIn em Linguagem de Programação Shell Script</li>
   </ul>
