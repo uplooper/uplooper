@@ -5,8 +5,8 @@
 <div>
   <p>Se você não entende:</p>
   <ul>
-    <li><code>/^([^A-Z\.\s]{2,})\.{0,1}([a-z]{0,})@([a-z]{2,})(\.com){1}$/g</code></li>
-    <li><code>/^(\([1-9]{2}\))\s9([\d]{4})-([\d]){4}$/g</code></li>
+    <li><code>/^([^A-Z\.\s]{2,})\.{0,1}([a-z]{0,})@([a-z]{2,})(\.com){1}$/</code></li>
+    <li><code>/^(\([1-9]{2}\))\s9([\d]{4})-([\d]){4}$/</code></li>
   </ul>
   <p>Não fale comigo (É BRINCADEIRA :joy:)</p>
 </div>
