@@ -1,7 +1,19 @@
 <p>*Obs.: perfil em português, para torná-lo mais acessível àqueles que não dominam inglês.</p>
 
+<hr />
+
 <div>
-  <h2>Sobre mim :raising_hand_man:</h2>
+  <p>Se você não entende:</p>
+  <ul>
+    <li><code>/^([^A-Z\.\s]{2,})\.{0,1}([a-z]{0,})@([a-z]{2,})(\.edu){0,1}(\.com){1}$/g</code></li>
+  </ul>
+  <p>Não fale comigo (É BRINCADEIRA :joy:)</p>
+</div>
+
+<hr />
+
+<div>
+  <p>Sobre mim :raising_hand_man:</p>
   <ul>
     <li>Desenvolvedor Front-end na <a href="https://www.eruda.com.br">Eruda</a></li>
     <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
@@ -45,9 +57,12 @@
     }
   ]
   ```
+ </div>
+
+ <hr />
 
  <div>
-  <h2>PRINCIPAIS hard skills :computer:</h2>
+  <p>PRINCIPAIS hard skills :computer:</p>
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
@@ -71,8 +86,10 @@
   </ul>
 </div>
 
+<hr />
+
 <div>
-  <h2>PRINCIPAIS soft skills :bowing_man:</h2>
+  <p>PRINCIPAIS soft skills :bowing_man:</p>
   <ul>
     <li>Adaptação</li>
     <li>Aprendizagem rápida</li>
@@ -84,8 +101,10 @@
   </ul>
 </div>
 
+<hr />
+
 <div>
-  <h2>Conquistas :trophy:</h2>
+  <p>Conquistas :trophy:</p>
   <ul>
     <li>Ranking alto no Beecrowd</li>
     <li>Selo de competência do LinkedIn em Linguagem de Programação C</li>
@@ -93,8 +112,10 @@
   </ul>
 </div>
 
+<hr />
+
 <div>
-  <h2>Social :busts_in_silhouette:</h2>
+  <p>Social :busts_in_silhouette:</p>
   <ul>
     <li><a href="https://zolppy.github.io/my-links/">Beecrowd</a></li>
     <li><a href="https://zolppy.github.io/my-links/">G-mail</a></li>
@@ -103,14 +124,18 @@
   </ul>
 </div>
 
+<hr />
+
 <div>
-  <h2>Linguagens mais utilizadas :rocket:</h2>
+  <p>Linguagens mais utilizadas :rocket:</p>
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=pie&langs_count=99&theme=dark" />
   <p>*Obs.: a imagem acima reflete apenas as linguagens mais utilizadas em projetos pessoais.</p>
 </div>
 
+<hr />
+
 <div>
-  <h2>Outros :books:</h2>
+  <p>Outros :books:</p>
   <ul>
     <li><a href="https://zolppy.github.io/my-links/">Currículo</a></li>
     <li><a href="https://zolppy.github.io/my-links/">Certificações</a></li>
