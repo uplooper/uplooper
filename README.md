@@ -58,12 +58,11 @@
     <li>Kanban</li>
     <li>Scrum</li>
     <li>Bootstrap</li>
-    <li>Redux</li>
     <li>React.js</li>
     <li>React Native</li>
     <li>Next.js</li>
     <li>C</li>
-    <li>SQL</li>
+    <li>Regex</li>
     <li>Java</li>
     <li>Git</li>
     <li>GitHub</li>
