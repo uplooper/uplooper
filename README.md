@@ -5,7 +5,7 @@
 <div>
   <p>Se você não entende:</p>
   <ul>
-    <li><code>/^([^A-Z\.\s]{2,})\.{0,1}([a-z]{0,})@([a-z]{2,})(\.edu){0,1}(\.com){1}$/g</code></li>
+    <li><code>/^([^A-Z\.\s]{2,})\.{0,1}([a-z]{0,})@([a-z]{2,})(\.com){1}$/g</code></li>
   </ul>
   <p>Não fale comigo (É BRINCADEIRA :joy:)</p>
 </div>
