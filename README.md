@@ -3,7 +3,7 @@
 <hr />
 
 <div>
-  <p>Se você não entende:</p>
+  <p>SE VOCÊ NÃO ENTENDE:</p>
   <ul>
     <li><code>/^([^A-Z\.\s]{2,})\.{0,1}([a-z\d]{0,})@([a-z\d]{2,})(\.com){1}$/</code></li>
     <li><code>/^(\([1-9]{2}\))\s9([\d]{4})-([\d]){4}$/</code></li>
@@ -15,7 +15,7 @@
 <hr />
 
 <div>
-  <p>Sobre mim :raising_hand_man:</p>
+  <p>SOBRE MIM :raising_hand_man:</p>
   <ul>
     <li>Desenvolvedor Front-end na <a href="https://www.eruda.com.br">Eruda</a></li>
     <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
@@ -64,7 +64,7 @@
  <hr />
 
  <div>
-  <p>PRINCIPAIS hard skills :computer:</p>
+  <p>PRINCIPAIS HARD SKILLS :computer:</p>
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
@@ -91,7 +91,7 @@
 <hr />
 
 <div>
-  <p>PRINCIPAIS soft skills :bowing_man:</p>
+  <p>PRINCIPAIS SOFT SKILLS :bowing_man:</p>
   <ul>
     <li>Adaptação</li>
     <li>Aprendizagem rápida</li>
@@ -106,7 +106,7 @@
 <hr />
 
 <div>
-  <p>Conquistas :trophy:</p>
+  <p>CONQUISTAS :trophy:</p>
   <ul>
     <li>Ranking alto no Beecrowd</li>
     <li>Selo de competência do LinkedIn em Linguagem de Programação C</li>
@@ -117,7 +117,7 @@
 <hr />
 
 <div>
-  <p>Social :busts_in_silhouette:</p>
+  <p>SOCIAL :busts_in_silhouette:</p>
   <ul>
     <li><a href="https://zolppy.github.io/my-links/">Beecrowd</a></li>
     <li><a href="https://zolppy.github.io/my-links/">G-mail</a></li>
@@ -129,7 +129,7 @@
 <hr />
 
 <div>
-  <p>Linguagens mais utilizadas :rocket:</p>
+  <p>LINGUAGENS MAIS UTILIZADAS :rocket:</p>
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=pie&langs_count=99&theme=dark" />
   <p>*Obs.: a imagem acima reflete apenas as linguagens mais utilizadas em projetos pessoais.</p>
 </div>
@@ -137,7 +137,7 @@
 <hr />
 
 <div>
-  <p>Outros :books:</p>
+  <p>OUTROS :books:</p>
   <ul>
     <li><a href="https://zolppy.github.io/my-links/">Currículo</a></li>
     <li><a href="https://zolppy.github.io/my-links/">Certificações</a></li>
