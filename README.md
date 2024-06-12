@@ -14,8 +14,6 @@
 
 <hr />
 
-<hr>
-
 <div>
   <p>OBJETIVOS :dart:</p>
   <ul>
