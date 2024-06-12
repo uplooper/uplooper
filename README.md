@@ -17,7 +17,7 @@
 <div>
   <p>OBJETIVOS :dart:</p>
   <ul>
-    <li>Reescrever todos os projetos pessoais CSS + JS para SASS + TS</li>
+    <li>Converter todos os projetos pessoais CSS + JS para SASS + TS</li>
     <li>Alcançar a marca de 100 projetos pessoais</li>
     <li>Documentar (README.md, descrição etc) todos os repositórios pessoais</li>
     <li>Subir mais 300 posições no ranking do Beecrowd</li>
