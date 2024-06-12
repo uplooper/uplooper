@@ -24,7 +24,7 @@
   </ul>
 </div>
 
-</hr>
+<hr />
 
 <div>
   <p>SOBRE MIM :raising_hand_man:</p>
