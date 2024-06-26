@@ -86,7 +86,7 @@
     <li>Metodologias Agile</li>
     <li>Kanban</li>
     <li>Scrum</li>
-    <li>Bootstrap</li>
+    <li>Tailwind CSS</li>
     <li>React.js</li>
     <li>React Native</li>
     <li>Next.js</li>
