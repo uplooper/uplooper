@@ -36,14 +36,12 @@
   ```json
   [
     {
-      "nomeCompleto": "Gabriel Cavalcante de Jesus Oliveira",
-      "genero": "masculino",
       "emprego": {
         "posicao": "Estagiário",
         "titulo": "Desenvolvedor Front-end",
         "compania": "Eruda",
         "desde": "28/10/2023",
-        "tempo": "7 mês(es)",
+        "tempo": "8 mês(es)",
         "modalidade": "home office"
       },
       "formacao": {
@@ -61,12 +59,6 @@
         },
         "semestre": 7,
         "modalidade": "Presencial"
-      },
-      "endereco": {
-        "pais": "Brasil",
-        "estado": "Bahia",
-        "cep": "44690-000",
-        "cidade": "Várzea Nova"
       }
     }
   ]
@@ -109,6 +101,18 @@
     <li>Foco</li>
     <li>Empatia</li>
     <li>Trabalho em equipe</li>
+  </ul>
+</div>
+
+<hr />
+
+<div>
+  <p>PRINCIPAIS TRABALHOS :briefcase:</p>
+  <ul>
+    <li><a href="https://www.newnet.com.br/">Website Newnet</a></li>
+    <li><a href="https://www.compusist.com.br/">Website Compusist</a></li>
+    <li><a href="https://www.eruda.com.br/">Website Eruda</a></li>
+    <li><a href="https://colaborador.newnet.com.br/">Portal do Colaborador (versão mobile)</a></li>
   </ul>
 </div>
 
