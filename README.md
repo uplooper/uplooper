@@ -90,13 +90,10 @@
     <li>React.js</li>
     <li>React Native</li>
     <li>Next.js</li>
-    <li>C</li>
     <li>Regex</li>
-    <li>Java</li>
     <li>Git</li>
     <li>GitHub</li>
     <li>Inglês</li>
-    <li>Shell Script</li>
   </ul>
 </div>
 
