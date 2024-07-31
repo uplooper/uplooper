@@ -43,7 +43,7 @@
           "compania": "Eruda",
           "desde": "28/10/2023",
           "tempo": "9 mês(es)",
-          "modalidade": "home office"
+          "modalidade": "Home office"
         },
         {
           "posicao": "Bolsista",
@@ -51,14 +51,15 @@
           "compania": "FAPESB (Fundação de Amparo à Pesquisa do Estado da Bahia)",
           "desde": "01/10/2024",
           "tempo": "0 mês(es)",
-          "modalidade": "híbrido"
+          "modalidade": "Híbrido"
         }
       ],
       "formacao": {
         "nome": "Licenciatura em Computação",
         "tipo": "Graduação",
         "estado": "Em progresso",
-        "instituicao": "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)"
+        "instituicao": "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
+        "modalidade": "Presencial",
       }
     }
   ]
