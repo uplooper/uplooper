@@ -36,29 +36,29 @@
   ```json
   [
     {
-      "emprego": {
-        "posicao": "Estagiário",
-        "titulo": "Desenvolvedor Front-end",
-        "compania": "Eruda",
-        "desde": "28/10/2023",
-        "tempo": "9 mês(es)",
-        "modalidade": "home office"
-      },
+      "emprego": [
+        {
+          "posicao": "Estagiário",
+          "titulo": "Desenvolvedor Front-end",
+          "compania": "Eruda",
+          "desde": "28/10/2023",
+          "tempo": "9 mês(es)",
+          "modalidade": "home office"
+        },
+        {
+          "posicao": "Bolsista",
+          "titulo": "PIBIC (Programa Institucional de Bolsa de Iniciação Científica)",
+          "compania": "FAPESB (Fundação de Amparo à Pesquisa do Estado da Bahia)",
+          "desde": "01/10/2024",
+          "tempo": "0 mês(es)",
+          "modalidade": "híbrido"
+        }
+      ],
       "formacao": {
         "nome": "Licenciatura em Computação",
         "tipo": "Graduação",
         "estado": "Em progresso",
-        "instituicao": {
-          "nome": "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
-          "endereco": {
-            "pais": "Brasil",
-            "estado": "Bahia",
-            "cep": "44700-000",
-            "cidade": "Jacobina"
-          }
-        },
-        "semestre": 7,
-        "modalidade": "Presencial"
+        "instituicao": "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)"
       }
     }
   ]
@@ -86,6 +86,9 @@
     <li>Git</li>
     <li>GitHub</li>
     <li>Inglês</li>
+    <li>R</li>
+    <li>Análise de Dados</li>
+    <li>Estatística</li>
   </ul>
 </div>
 
