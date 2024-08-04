@@ -87,9 +87,8 @@
     <li>Git</li>
     <li>GitHub</li>
     <li>Inglês</li>
-    <li>R</li>
-    <li>Análise de Dados</li>
-    <li>Estatística</li>
+    <li>C</li>
+    <li>Java</li>
   </ul>
 </div>
 
