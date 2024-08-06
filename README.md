@@ -32,38 +32,6 @@
     <li>Desenvolvedor Front-end na <a href="https://www.eruda.com.br">Eruda</a></li>
     <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
-
-  ```json
-  [
-    {
-      "emprego": [
-        {
-          "posicao": "Estagiário",
-          "titulo": "Desenvolvedor Front-end",
-          "compania": "Eruda",
-          "desde": "28/10/2023",
-          "tempo": "9 mês(es)",
-          "modalidade": "Home office"
-        },
-        {
-          "posicao": "Bolsista",
-          "titulo": "PIBIC (Programa Institucional de Bolsa de Iniciação Científica)",
-          "compania": "FAPESB (Fundação de Amparo à Pesquisa do Estado da Bahia)",
-          "desde": "01/10/2024",
-          "tempo": "0 mês(es)",
-          "modalidade": "Híbrido"
-        }
-      ],
-      "formacao": {
-        "nome": "Licenciatura em Computação",
-        "tipo": "Graduação",
-        "estado": "Em progresso",
-        "instituicao": "IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia)",
-        "modalidade": "Presencial",
-      }
-    }
-  ]
-  ```
  </div>
 
  <hr />
