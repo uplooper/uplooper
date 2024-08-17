@@ -1,19 +1,3 @@
-<p>*Obs.: perfil em português, para torná-lo mais acessível àqueles que não dominam inglês.</p>
-
-<hr />
-
-<div>
-  <p>SE VOCÊ NÃO ENTENDE:</p>
-  <ul>
-    <li><code>/^([^A-Z\.\s]{2,})\.{0,1}([a-z\d]{0,})@([a-z\d]{2,})(\.com){1}$/</code></li>
-    <li><code>/^(\([1-9]{2}\))\s9([\d]{4})-([\d]){4}$/</code></li>
-    <li><code>/^(\d{5})-{1}(\d{3})$/</code></li>
-  </ul>
-  <p>Não fale comigo (É BRINCADEIRA :joy:)</p>
-</div>
-
-<hr />
-
 <div>
   <p>OBJETIVOS :dart:</p>
   <ul>
