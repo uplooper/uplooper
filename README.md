@@ -89,14 +89,6 @@
 <hr />
 
 <div>
-  <p>LINGUAGENS MAIS UTILIZADAS :rocket:</p>
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=pie&langs_count=99&theme=dark" />
-  <p>*Obs.: a imagem acima reflete apenas as linguagens mais utilizadas em projetos pessoais.</p>
-</div>
-
-<hr />
-
-<div>
   <p>OUTROS :books:</p>
   <ul>
     <li><a href="https://zolppy.github.io/my-links/">Currículo</a></li>
