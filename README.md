@@ -21,7 +21,7 @@
  <hr />
 
  <div>
-  <p>PRINCIPAIS HARD SKILLS :computer:</p>
+  <p>PRINCIPAIS SKILLS :computer:</p>
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
@@ -41,14 +41,6 @@
     <li>Inglês</li>
     <li>C</li>
     <li>Java</li>
-  </ul>
-</div>
-
-<hr />
-
-<div>
-  <p>PRINCIPAIS SOFT SKILLS :bowing_man:</p>
-  <ul>
     <li>Adaptação</li>
     <li>Aprendizagem rápida</li>
     <li>Comunicação</li>
