@@ -60,6 +60,7 @@
     <li><a href="https://www.compusist.com.br/">Website Compusist</a></li>
     <li><a href="https://www.eruda.com.br/">Website Eruda</a></li>
     <li><a href="https://colaborador.newnet.com.br/">Portal do Colaborador (versão mobile)</a></li>
+    <li><a href="https://afrofest.eruda.com.br/">Afrofest</a></li>
   </ul>
 </div>
 
