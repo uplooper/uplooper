@@ -1,5 +1,5 @@
 <div>
-  <p>OBJETIVOS :dart:</p>
+  <p>METAS :dart:</p>
   <ul>
     <li>Converter todos os projetos pessoais CSS + JS para SASS + TS</li>
     <li>Alcançar a marca de 100 projetos pessoais</li>
@@ -11,7 +11,7 @@
 <hr />
 
 <div>
-  <p>SOBRE MIM :raising_hand_man:</p>
+  <p>O QUE EU SOU? :raising_hand_man:</p>
   <ul>
     <li>Desenvolvedor Front-end na <a href="https://www.eruda.com.br">Eruda</a></li>
     <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
