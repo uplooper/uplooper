@@ -13,7 +13,6 @@
 <div>
   <p>O QUE EU SOU? :raising_hand_man:</p>
   <ul>
-    <li>Desenvolvedor Front-end na <a href="https://www.eruda.com.br">Eruda</a></li>
     <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
   </ul>
  </div>
