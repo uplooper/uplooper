@@ -1,100 +1,37 @@
-<div>
-  <p>METAS :dart:</p>
-  <ul>
-    <li>Converter todos os projetos pessoais CSS + JS para SASS + TS</li>
-    <li>Alcançar a marca de 100 projetos pessoais</li>
-    <li>Documentar (README.md, descrição etc) todos os repositórios pessoais</li>
-    <li>Subir mais 300 posições no ranking do Beecrowd</li>
-  </ul>
+<h1>:rocket: Gabriel Cavalcante :rocket:</h1>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ruliancruz">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=zolppy&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=compact&langs_count=10"/>
 </div>
 
-<hr />
+<br>
 
-<div>
-  <p>O QUE EU SOU? :raising_hand_man:</p>
-  <ul>
-    <li>Graduando em Computação no <a href="https://portal.ifba.edu.br/jacobina">IFBA</a></li>
-  </ul>
- </div>
-
- <hr />
-
- <div>
-  <p>PRINCIPAIS SKILLS :computer:</p>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>Sass</li>
-    <li>TypeScript</li>
-    <li>Metodologias Agile</li>
-    <li>Kanban</li>
-    <li>Scrum</li>
-    <li>Tailwind CSS</li>
-    <li>React.js</li>
-    <li>React Native</li>
-    <li>Next.js</li>
-    <li>Regex</li>
-    <li>Git</li>
-    <li>GitHub</li>
-    <li>Inglês</li>
-    <li>C</li>
-    <li>Java</li>
-    <li>Adaptação</li>
-    <li>Aprendizagem rápida</li>
-    <li>Comunicação</li>
-    <li>Disciplina</li>
-    <li>Foco</li>
-    <li>Empatia</li>
-    <li>Trabalho em equipe</li>
-  </ul>
+<div style="display: inline-block">
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+	<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
 
-<hr />
-
-<div>
-  <p>PRINCIPAIS TRABALHOS :briefcase:</p>
-  <ul>
-    <li><a href="https://www.newnet.com.br/">Website Newnet</a></li>
-    <li><a href="https://www.compusist.com.br/">Website Compusist</a></li>
-    <li><a href="https://www.eruda.com.br/">Website Eruda</a></li>
-    <li><a href="https://colaborador.newnet.com.br/">Portal do Colaborador (versão mobile)</a></li>
-    <li><a href="https://afrofest.eruda.com.br/">Afrofest</a></li>
-    <li><a href="https://share.eruda.com.br/">Share</a></li>
-  </ul>
-</div>
-
-<hr />
-
-<div>
-  <p>CONQUISTAS :trophy:</p>
-  <ul>
-    <li>Ranking alto no Beecrowd</li>
-    <li>Selo de competência do LinkedIn em Linguagem de Programação C</li>
-    <li>Selo de competência do LinkedIn em Linguagem de Programação Shell Script</li>
-  </ul>
-</div>
-
-<hr />
-
-<div>
-  <p>SOCIAL :busts_in_silhouette:</p>
-  <ul>
-    <li><a href="https://zolppy.github.io/my-links/">Beecrowd</a></li>
-    <li><a href="https://zolppy.github.io/my-links/">G-mail</a></li>
-    <li><a href="https://zolppy.github.io/my-links/">LinkedIn</a></li>
-    <li><a href="https://zolppy.github.io/my-links/">WhatsApp</a></li>
-  </ul>
-</div>
-
-<hr />
-
-<div>
-  <p>OUTROS :books:</p>
-  <ul>
-    <li><a href="https://zolppy.github.io/my-links/">Currículo</a></li>
-    <li><a href="https://zolppy.github.io/my-links/">Certificações</a></li>
-  </ul>
-</div>
+<br>
 
 <span>[![](https://visitcount.itsvg.in/api?id=zolppy&icon=5&color=12)](https://visitcount.itsvg.in)</span>
