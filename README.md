@@ -1,9 +1,15 @@
-<h1>:rocket: Gabriel Cavalcante :rocket:</h1>
-
+<h1 align="center">:rocket: Gabriel Cavalcante :rocket:</h1>
+<p align="center">Desenvolvedor AI/ML e Desenvolvedor Front-end</p>
 <br>
 
+<ul>
+	<li>:paintbrush: Sou Desenvolvedor de Software Web Front-end.</li>
+	<li>:robot: Atualmente sou Desenvolvedor AI/ML (Artificial Inteligence/Machine Learning) estagiário na Compass UOL.</li>
+	<li>:mortar_board: Atualmente sou graduando em Licenciatura em Computação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Jacobina.</li>
+</ul>
+
 <div align="center">
-  <a href="https://github.com/ruliancruz">
+  <a href="https://github.com/zolppy">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=zolppy&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolppy&layout=compact&langs_count=10"/>
 </div>
