@@ -3,8 +3,8 @@
 <br>
 
 <ul>
-	<li>:paintbrush: Sou Desenvolvedor de Software Web Front-end.</li>
-	<li>:robot: Atualmente sou Desenvolvedor AI/ML (Artificial Inteligence/Machine Learning) estagiário na Compass UOL.</li>
+	<li>:paintbrush: Desenvolvedor Front-end.</li>
+	<li>:robot: Desenvolvedor AI/ML (Artificial Inteligence/Machine Learning) estagiário na Compass UOL.</li>
 	<li>:mortar_board: Atualmente sou graduando em Licenciatura em Computação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Jacobina.</li>
 </ul>
 
