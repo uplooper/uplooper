@@ -3,9 +3,9 @@
 <br>
 
 <ul>
-	<li>:paintbrush: Desenvolvedor Front-end.</li>
-	<li>:robot: Desenvolvedor AI/ML na Compass UOL.</li>
-	<li>:mortar_board: Graduando em Licenciatura em Computação.</li>
+	<li>:paintbrush: Desenvolvedor Front-end na Eruda;</li>
+	<li>:robot: Desenvolvedor AI/ML na Compass UOL;</li>
+	<li>:mortar_board: Graduando em Licenciatura em Computação no IFBA.</li>
 </ul>
 
 <div align="center">
