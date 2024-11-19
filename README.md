@@ -57,6 +57,7 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/v8/v8-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
 </div>
 
 <br>
