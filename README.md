@@ -69,7 +69,7 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
 </div>
 
-<h2>Main techonologies that I use like Front-end Developer</h2>
+<h2>Main techonologies that I use like a Front-end Developer</h2>
 <div style="display: inline-block">
 	<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
@@ -81,7 +81,7 @@
 	<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
-<h2>Main technologies that I use like AI/ML Developer</h2>
+<h2>Main technologies that I use like an AI/ML Developer</h2>
 <div style="display: inline-block">
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
